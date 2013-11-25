@@ -1,0 +1,224 @@
+@charset "utf-8";
+header {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	background-color: #9EDAD3;
+	height: 350px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: lighter;
+}
+
+nav {
+	height: 150px;
+	width: 960px;
+	background-color: #6ED6BF;
+	display: block;
+
+	box-shadow: 0px 4px 10px 0px rgba(102,102,102,1);
+	float: left;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	-webkit-transition: all;
+	-moz-transition: all;
+	-ms-transition: all;
+	-o-transition: all;
+	transition: all;
+}
+body {
+	background-color: rgba(158,218,211,1);
+
+}
+footer {
+	background-color: #0CC;
+	height: 75px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	margin-top: 125px;
+}
+.parrafoC {
+	text-align: center;
+	display: block;
+	margin-right: 18px;
+	margin-left: 18px;
+}
+.btn1 {
+	text-decoration: none;
+	color: #6ED6BF;
+	display: block;
+	text-align: center;
+	float: left;
+	width: 150px;
+	margin-top: 100px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 37px;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 53px;
+	font-size: 25px;
+	clear: none;
+	vertical-align: middle;
+	position: static;
+	box-shadow: 0px 4px 10px rgba(102,102,102,1);
+	background-image: url(boton.png);
+	padding-top: 27px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-weight: lighter;
+}
+.btn2 {
+	text-decoration: none;
+	color: #6ED6BF;
+	display: block;
+	text-align: center;
+	float: left;
+	width: 150px;
+	margin-top: 100px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 53px;
+	font-size: 25px;
+	clear: none;
+	vertical-align: middle;
+	position: static;
+	box-shadow: 0px 4px 10px rgba(102,102,102,1);
+	background-image: url(boton.png);
+	padding-top: 27px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.btn3 {
+	text-decoration: none;
+	color: #6ED6BF;
+	display: block;
+	text-align: center;
+	float: left;
+	width: 150px;
+	margin-top: 100px;
+	margin-right: 19px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 53px;
+	font-size: 25px;
+	clear: none;
+	vertical-align: middle;
+	position: static;
+	box-shadow: 0px 4px 10px rgba(102,102,102,1);
+	background-image: url(boton.png);
+	padding-top: 27px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.btn4 {
+	text-decoration: none;
+	color: #6ED6BF;
+	display: block;
+	text-align: center;
+	float: left;
+	width: 150px;
+	margin-top: 100px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 53px;
+	font-size: 25px;
+	clear: none;
+	vertical-align: middle;
+	position: static;
+	box-shadow: 0px 4px 10px rgba(102,102,102,1);
+	background-image: url(boton.png);
+	padding-top: 27px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+.cuerpo {
+	width: 888px;
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 36px;
+	text-decoration: none;
+	text-align: left;
+	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+}
+p {
+	display: block;
+	height: 197px;
+	width: 208px;
+	text-align: center;
+	float: left;
+	margin-left: 56px;
+	margin-right: 56px;
+	font-size: 12px;
+}
+.info img {
+	display: block;
+	width: 208px;
+	float: left;
+	margin-right: 56px;
+	margin-left: 56px;
+	margin-top: 50px;
+}
+.info .imagenC {
+	margin-right: 18px;
+	margin-left: 18px;
+}
+
+
+.slider {
+	/*float: left;*/
+	height: 150px;
+	width: auto;
+	text-align: center;
+	padding-top: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 150px;
+	box-shadow: 0px 4px 10px rgba(102,102,102,1);
+	background-image: url(Sin%20t%C3%ADtulo-2.png);
+}
+
+.info {
+	margin-top: 125px;
+	height: 500px;
+	width: 888px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: rgba(110,214,191,1);
+	box-shadow: 0px 4px 10px rgba(102,102,102,1);
+	margin-bottom: 120px;
+}
+.home {
+	height: 98px;
+	width: 244px;
+	margin-bottom: 0px;
+	margin-top: 25px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 25px;
+	padding-top: 0px;
+	border-radius: 80px;
+	margin-right: 0px;
+	margin-left: 0px;
+	display: block;
+	float: left;
+}
+nav a {
+	height: 58px;
+	padding-top: 22px;
+}
